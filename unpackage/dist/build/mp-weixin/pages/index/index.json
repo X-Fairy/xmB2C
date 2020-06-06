@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "hx-navbar": "/components/hx-navbar/hx-navbar",
+    "modal": "/components/modal/modal",
+    "tui-icon": "/components/icon/icon",
+    "tui-countdown": "/components/countdown/countdown"
+  }
+}

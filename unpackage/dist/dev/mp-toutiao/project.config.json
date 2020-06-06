@@ -1,0 +1,9 @@
+{
+  "setting": {
+    "es6": true,
+    "postcss": true,
+    "minified": true
+  },
+  "appid": "ttcc1ebaa35334a690",
+  "projectname": "熙美诚品"
+}

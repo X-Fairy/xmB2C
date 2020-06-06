@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTitleText": "商品分类",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "tui-icon": "/components/icon/icon"
+  }
+}
